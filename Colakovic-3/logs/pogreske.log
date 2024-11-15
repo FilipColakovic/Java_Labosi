@@ -1,0 +1,8 @@
+2024-11-11 13:14:22,193 INFO [main] h.j.p.m.Main [Main.java:19] Program je pokrenut
+2024-11-11 13:16:59,110 INFO [main] h.j.p.m.Main [Main.java:19] Program je pokrenut
+2024-11-11 13:17:15,012 INFO [main] h.j.p.m.Main [Main.java:33] Stvorena je kategorija hr.java.restaurant.model.Category@1e730495
+2024-11-11 13:18:21,804 INFO [main] h.j.p.m.Main [Main.java:19] Program je pokrenut
+2024-11-11 13:18:27,974 INFO [main] h.j.p.m.Main [Main.java:33] Stvorena je kategorija meso m
+2024-11-11 13:18:38,422 INFO [main] h.j.p.m.Main [Main.java:33] Stvorena je kategorija sdf
+2024-11-11 13:18:41,965 INFO [main] h.j.p.m.Main [Main.java:33] Stvorena je kategorija dfd
+2024-11-11 13:18:56,351 INFO [main] h.j.p.m.Main [Main.java:40] Stvoren je sastojak dfdf
